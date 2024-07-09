@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+#custom-navbar {
+  height: 60px;
+  font-size: 20px;
+  background-color: #e77444;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+}
+
+.container {
+  margin-top: 5px;
+}
+
+.navbar-brand {
+  font-size: 30px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  color: whitesmoke;
+}
+
+.nav-item {
+  padding: 0px 20px 0px 20px;
+}
